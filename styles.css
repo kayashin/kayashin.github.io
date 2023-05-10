@@ -1,5 +1,6 @@
 body{
-    margin: 0;
-    background: beige;
+    box-sizing: content-box;
+    justify-content: center;
+    align-items: center;
     text-align: center;
 }
